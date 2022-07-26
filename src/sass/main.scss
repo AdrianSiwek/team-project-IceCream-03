@@ -5,18 +5,18 @@
 
 // Style dla pliku z przykładem HTML fragmentu
 @import "./utils/variables";
-// @import "./components/header";
+@import "./components/header";
 @import "./basis/container";
 
 // @import './example';
 @import "./components/about";
-// @import "./components/products";
-// @import "./basis/products";
-// @import "./components/footer";
-// @import "./components/icone";
-// @import "./components/gallery";
+@import "./components/products";
+@import "./basis/products";
+@import "./components/footer";
+@import "./components/icone";
+@import "./components/gallery";
 @import "./components/advantages";
-// @import "./components/contact";
+@import "./components/contact";
 
 
 
