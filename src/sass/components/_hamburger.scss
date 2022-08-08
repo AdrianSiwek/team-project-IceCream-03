@@ -67,6 +67,7 @@ min-width: 1%;
     // JS & toggle buttons
     .js-menu-container.is-open {
         transform: translateX(0);
+        overflow-y: auto;
     }
 
         .mobile-navigation__button {
