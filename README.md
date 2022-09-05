@@ -1,3 +1,5 @@
+
+
 # parcel-project-template
 
 ## Zalezności
@@ -13,8 +15,23 @@ npm ci
 ```
 
 ### Praca
+Developers
 
-Włączyć tryp pracy.
+Leaders
+
+- Team Leader: Adrian Siwek
+- Scrum Master: Zuzanna Kaźmierczak
+
+Sections
+
+- Header: Zuzanna Kaźmierczak
+- Products: Dariusz Kuśnieruk
+- How it's made: Bartłomiej Kokosza
+- Gallery: Paulina Woźniak
+- Footer: Adrian Siwek
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Włączyć tryb pracy.
 
 ```shell
 npm run dev
