@@ -7,9 +7,10 @@ The first group project as part of the Fullstack Developer GoIT course made in h
 
 Project contractors:
 
-- Team Leader: Adrian Siwek,
+<a href="https://github.com/AdrianSiwek">- Team Leader: Adrian Siwek,</a>
 
 <a href="https://github.com/Zuza29">- Scrum Master: Zuzanna Kaźmierczak,</a>
+
 Developers:
 
 <a href="https://github.com/KokoszaKRA">- Bartłomiej Kokosza,</a>
